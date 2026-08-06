@@ -30,6 +30,11 @@ define config.version = "0.0.1"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
+What if là tổng hợp nhiều tình huống xảy với các nhân vật khác nhau được tổng hợp lại thành các lựa chọn   
+
+code Doziran Dev  
+
+CGI Lạc Lạc
 """)
 
 
