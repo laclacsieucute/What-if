@@ -8,6 +8,10 @@ mấy thứ bạn đang nhìn thấy chỉ là source code thôi. Chọn phần 
 đọc và chọn phiên bản bạn muốn, sau đó mở Assets và tải về phiên bản phù hợp
 <img width="1044" height="424" alt="Ảnh chụp màn hình 2026-08-07 131022" src="https://github.com/user-attachments/assets/31f56c76-27ed-4660-8afb-f5eb5710600a" />
 
+Chọn file pc.zip cho windown
+
+<img width="966" height="540" alt="Ảnh chụp màn hình 2026-08-08 123433" src="https://github.com/user-attachments/assets/40a3a95b-8c2e-4800-b8d6-2cf127b7ba38" />
+
 Tải về sẽ được một file pc.zip như thế này
 
 <img width="704" height="127" alt="Ảnh chụp màn hình 2026-08-08 122932" src="https://github.com/user-attachments/assets/0122cd00-94e7-4e8b-920a-cb808196a6b1" />
