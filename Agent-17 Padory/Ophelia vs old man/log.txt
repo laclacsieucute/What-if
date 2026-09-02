@@ -1,0 +1,78 @@
+2026-09-01 23:37:41 UTC
+Windows-11-10.0.26200-SP0
+Ren'Py 8.5.3.26051504
+
+Early init took 63 ms
+Loading error handling took 121 ms
+Loading script took 1234 ms
+Loading save slot metadata took 215 ms
+Loading persistent took 0 ms
+Running init code took 260 ms
+Loading analysis data took 50 ms
+Analyze and compile ATL took 3 ms
+Reloading save slot metadata took 140 ms
+Backing up script files to 'C:\\Users\\phacb\\AppData\\Roaming/RenPy/backups\\What if':
+Dump and make backups took 71 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 73 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 391 ms
+Init translation took 1 ms
+Cleaning stores took 0 ms
+Load screen analysis took 30 ms
+Analyze screens took 12 ms
+Save screen analysis took 17 ms
+Save pyanalysis took 0 ms
+Save bytecode took 31 ms
+Running _start took 2 ms
+Interface start took 346 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 592.82'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 144, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1379, 776) drawable=(1379, 776)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 11 ms
+Loading error handling took 27 ms
+Loading script took 119 ms
+Loading save slot metadata took 22 ms
+Loading persistent took 0 ms
+Running init code took 96 ms
+Loading analysis data took 5 ms
+Analyze and compile ATL took 1 ms
+Reloading save slot metadata took 12 ms
+Dump and make backups took 53 ms
+Cleaning cache took 0 ms
+Making clean stores took 1 ms
+Initial gc took 85 ms
+DPI scale factor: 1.000000
+Creating interface object took 0 ms
+Init translation took 0 ms
+Cleaning stores took 0 ms
+Load screen analysis took 26 ms
+Analyze screens took 2 ms
+Save screen analysis took 0 ms
+Save pyanalysis took 0 ms
+Save bytecode took 0 ms
+Running _start took 2 ms
+Interface start took 325 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 592.82'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 144, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1379, 776) drawable=(1379, 776)
+Maximum texture size: 4096x4096
