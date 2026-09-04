@@ -9,4 +9,6 @@ https://discord.gg/gxVcaj8QCD
 Có thể tải bản game để chơi thử hoặc kéo mã nguồn về rồi làm gì cũng được.
 
 Game đã được đăng lên:
+
+bữa tối cùng Dana và Amber
 https://laclac-cute.itch.io/insectdinner
