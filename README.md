@@ -7,3 +7,6 @@ Không giới hạn về artstyle, nguồn gốc...Thảo luận thêm tại sev
 https://discord.gg/gxVcaj8QCD
 
 Có thể tải bản game để chơi thử hoặc kéo mã nguồn về rồi làm gì cũng được.
+
+Game đã được đăng lên:
+https://laclac-cute.itch.io/insectdinner
