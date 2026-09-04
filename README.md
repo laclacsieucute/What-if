@@ -10,5 +10,5 @@ Có thể tải bản game để chơi thử hoặc kéo mã nguồn về rồi 
 
 Game đã được đăng lên:
 
-bữa tối cùng Dana và Amber
+- bữa tối cùng Dana và Amber
 https://laclac-cute.itch.io/insectdinner
